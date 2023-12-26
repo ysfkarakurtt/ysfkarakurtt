@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/dbd02eb60eede5c8e12d03bb1531f7df43acf13a3d8a90bccbda7aa220799a1d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
 
-- 🔭 I’m currently learning **C,Java,Object Oriented Programming(OOP)**
+- 🔭 I’m currently learning **C,Java,Object Oriented Programming(OOP),Artificial Intelligence(AI)**
 - 📫 How to reach me **yusufsametkarakurt@gmail.com**
 
 
