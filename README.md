@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761144f233cf7020d064a8e9ef86e2bfd1ee3535c6da&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently improving myself **Html,Css,JavaScript(React.js,Node.js)**
+- 🔭 I’m currently improving myself about **Html,Css,JavaScript(React.js,Node.js)**
 - 🌐 My personal website <a href="https://yusufsametkarakurt.com/" target="_blank"> **yusufsametkarakurt.com**</a> 
 - 📫 How to reach me **yusufsametkarakurt@gmail.com**
 
