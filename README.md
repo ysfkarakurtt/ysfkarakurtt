@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yusuf Samet Karakurt</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/047d675a406937f519b5920497c2171dbe46668bbdfadcacbf0415d9a5d1e734/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313134346632333363663730323064303634613865396566383665326266643165653335333563366461267269643d67697068792e6769662663743d67">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761144f233cf7020d064a8e9ef86e2bfd1ee3535c6da&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently learning **C,Java,Artificial Intelligence(AI)**
+- 🌐 My personal website **yusufsametkarakurt.com**
 - 📫 How to reach me **yusufsametkarakurt@gmail.com**
 
 
