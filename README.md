@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuf-karakurt"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48&link=https%3A%2F%2Fgithub.com%2Fysfkarakurtt%2F" alt="linkedin" /></a><img  href="yusufsametkarakurt.com" width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/008f0d8d-56ff-457c-a0e9-312c44cef089" />
+<a href="https://linkedin.com/in/yusuf-karakurt"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48&link=https%3A%2F%2Fgithub.com%2Fysfkarakurtt%2F" alt="linkedin" /></a>
+ <a  href="yusufsametkarakurt.com"><img  width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/008f0d8d-56ff-457c-a0e9-312c44cef089" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
